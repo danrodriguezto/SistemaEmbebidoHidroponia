@@ -22,4 +22,6 @@ Se plantea que el usuario reciba notificaciones  por medio de su correo con la i
 ----
 ## **Diagrama de bloques del sistema.** ##
 
+En el siguiente diagrama se muestran los diferentes componentes que se plantean implementar en el sistema, en este se pueden observar cada una de las entradas y salidas que se pretenden tener en el sistema. Como interacción principal con el usuario se va a construir un sistema que conecte con el telefono del usuario y lo alerte sobre las condiciones de la planta.
+
 ![Diagrama_en_blanco](https://user-images.githubusercontent.com/88418156/186547916-15719605-8ecb-488c-ab9b-c09ebaba3a6a.png)
