@@ -27,3 +27,8 @@ Se plantea que el usuario reciba notificaciones  por medio de su correo con la i
 En el siguiente diagrama se muestran los diferentes componentes que se plantean implementar en el sistema, en este se pueden observar cada una de las entradas y salidas que se pretenden tener en el sistema. Como interacción principal con el usuario se va a construir un sistema que conecte con el telefono del usuario y lo alerte sobre las condiciones de la planta.
 
 ![Diagrama_en_blanco](https://user-images.githubusercontent.com/88418156/186547916-15719605-8ecb-488c-ab9b-c09ebaba3a6a.png)
+
+## **Diagrama de caja negra con los modulos del ESP32.** ##
+![Diagrama Bloque Embebidos](https://user-images.githubusercontent.com/88418156/187798153-f135e02f-7803-41c5-bae0-eb111757a825.png)
+
+
