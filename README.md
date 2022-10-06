@@ -5,7 +5,9 @@
 
 #### Daniel Santiago Robayo ####
 
-#### Poner los nombres aqui ####
+#### María Camila Muñoz Berrio ####
+
+#### Sebastian Ruiz Torres ####
 
 
 ----
