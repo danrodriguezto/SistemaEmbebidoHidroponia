@@ -16,7 +16,7 @@ Se plantea optimizar el cultivo por hidroponia  con el objetivo de reducir perdi
 
 Publico objetivo: Personas con la necesidad de cultivar en espacios reducidos sin la necesidad de dañar los suelos, personas con el deseo de tener un cultivo en el hogar como pasa tiempo 
 
-Objeivo General:  Diseño, creacion y aplicacion  de un sistema de monitoreo que permita la optimizacion del cultivo y la interaccion educativa con el usuario.
+Objetivo General:  Diseño, creacion y aplicacion  de un sistema de monitoreo que permita la optimizacion del cultivo y la interaccion educativa con el usuario.
 
 ![unknown](https://user-images.githubusercontent.com/88418156/186547927-50646758-781d-460b-a5ae-b2e2ee4a1a16.png)
 
