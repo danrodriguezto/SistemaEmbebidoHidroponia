@@ -1,0 +1,144 @@
+
+(rules PCB EmbebidosProyecto
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 1385)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.0)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.0)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 500.2 (type default_Power))
+    (clear 500.2 (type default_Signals))
+    (clear 50.0 (type smd_smd))
+    (clear 500.2 (type smd_Power))
+    (clear 500.2 (type smd_Signals))
+    (clear 500.2 (type "kicad_default"_Power))
+    (clear 500.2 (type "kicad_default"_Signals))
+    (clear 500.2 (type Power_Power))
+    (clear 500.2 (type Power_Signals))
+    (clear 500.2 (type Signals_Signals))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (padstack "Via[0-1]_600:300_um"
+    (shape
+      (circle F.Cu 600.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 600.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_600:300_um" "Via[0-1]_600:300_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_600:300_um-kicad_default" "Via[0-1]_600:300_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_800:400_um-Power" "Via[0-1]_800:400_um" Power
+  )
+  (via 
+    "Via[0-1]_600:300_um-Power" "Via[0-1]_600:300_um" Power
+  )
+  (via 
+    "Via[0-1]_800:400_um-Signals" "Via[0-1]_800:400_um" Signals
+  )
+  (via 
+    "Via[0-1]_600:300_um-Signals" "Via[0-1]_600:300_um" Signals
+  )
+  (via_rule
+    default "Via[0-1]_600:300_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (via_rule
+    Power "Via[0-1]_800:400_um-Power"
+  )
+  (via_rule
+    Signals "Via[0-1]_600:300_um-Signals"
+  )
+  (class default
+    "Net-(J8-Pad3)" "unconnected-(U4-Pad32)" "Net-(J8-Pad4)" "Net-(J8-Pad5)" "Net-(J8-Pad6)" "Net-(J8-Pad7)" "Net-(J8-Pad8)" "Net-(J8-Pad9)"
+    "Net-(J8-Pad10)" "Net-(J8-Pad11)" "Net-(J8-Pad12)" "Net-(U4-Pad37)" "Net-(U4-Pad36)" "Net-(U4-Pad33)" "Net-(U4-Pad31)" "Net-(U4-Pad30)"
+    "Net-(U4-Pad29)" /LUZPWR
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class Power
+    +5V GND +3V3 /MOTOROUT /LUZOUT
+    (clearance_class Power)
+    (via_rule Power)
+    (rule
+      (width 400.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class Signals
+    "/E32_RST" "Net-(C1-Pad2)" /LED /STemperatura "/ACK_LUZ" /SNivelAgua /RX /TX
+    "Net-(Q1-Pad1)" "Net-(R3-Pad1)" /MOTORPWR "Net-(R4-Pad1)" "Net-(R2-Pad2)" "Net-(SW1-Pad1)" "Net-(LEDON1-Pad2)" "/SCL_LUZ"
+    "/SDA_LUZ" "Net-(Q2-Pad1)" "/Sen_VN" "/Sen_VP" /SCS /SWP /SHD
+    (clearance_class Signals)
+    (via_rule Signals)
+    (rule
+      (width 200.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
