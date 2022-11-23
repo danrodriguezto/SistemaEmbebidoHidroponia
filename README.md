@@ -19,16 +19,15 @@ Las principales alternativas son: Acuaponía, aeroponía e hidroponía. Esta ult
  
 
 ## **Propuesta** ##
-Se plantea construir un cultivo vertical de hidroponia que reduzca el espacio utilizado para un cultivo y que cuente con un sistema de monitoreo que cuente con sensores previamente calibrados que midan variables importantes para el sostenimiento del cultivo, estos sensores enviaran información que sera procesada y a partir de esto se enviaran alertas al telefono movil del usuario haciendo así interactivo el proceso de producir su alimento
+Se plantea construir un cultivo vertical de hidroponia que reduzca el espacio utilizado para un cultivo y que cuente con un sistema de monitoreo que cuente con sensores previamente calibrados que midan variables importantes para el sostenimiento del cultivo, estos sensores enviaran información que sera procesada y a partir de esto se enviaran alertas al telefono movil del usuario haciendo así interactivo el proceso de producir su alimento. También se pretende que esta dispositivo pueda ser usado por cualquier persona incluso si no conoce sobre hidroponia por medio de avisos informativos-educativos. 
 
-**Publico objetivo** Personas con la necesidad de cultivar en espacios reducidos sin la necesidad de dañar los suelos, personas con el deseo de tener un cultivo en el hogar como pasa tiempo 
+**Publico objetivo** Personas con interesadas en cultivar en espacios reducidos sin la necesidad de dañar los suelos y aprender sobre cultivos hidroponicos.
 
 **Objetivo General**  Diseño, creacion y aplicacion  de un sistema de monitoreo que permita la optimizacion del cultivo y la interaccion educativa con el usuario.
 
 ![unknown](https://user-images.githubusercontent.com/88418156/186547927-50646758-781d-460b-a5ae-b2e2ee4a1a16.png)
 
-Para el area urbana se plantea un rack de cultivo vertical (como el que se observa en la imagen anterior) con los sensores implementados dentro de si mismo, y previamente calibrados; todo conectado al esp32 de modo que el usuario solo deba conectar a la almientacion y  conectar a una fuente hidrica.
-Se plantea que el usuario reciba notificaciones  por medio de su correo con la informacion del monitoreo y con informacion educativa sobre el cultivo en cuestion.
+
 
 ----
 ## **Diagrama de bloques del sistema.** ##
