@@ -30,6 +30,8 @@ Se plantea construir un cultivo vertical de hidroponia que reduzca el espacio ut
 
 
 ----
+## **Requerimientos** ##
+
 ## **Diagrama de bloques del sistema.** ##
 
 En el siguiente diagrama se muestran los diferentes componentes que se plantean implementar en el sistema, en este se pueden observar cada una de las entradas y salidas que se pretenden tener en el sistema. Como interacción principal con el usuario se va a construir un sistema que conecte con el telefono del usuario y lo alerte sobre las condiciones de la planta.
