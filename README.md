@@ -47,3 +47,7 @@ En el siguiente diagrama se muestran los diferentes componentes que se plantean 
 
 ## **Diseño de la placa** ##
 
+
+## **Brochure** ##
+
+
