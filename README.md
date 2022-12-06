@@ -50,4 +50,4 @@ En el siguiente diagrama se muestran los diferentes componentes que se plantean 
 
 ## **Brochure** ##
 
-
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/commit/78c5e7053885852da3d28f605fcd73599053ceec)
