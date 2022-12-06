@@ -31,6 +31,10 @@ Se plantea construir un cultivo vertical de hidroponia que reduzca el espacio ut
 
 ----
 ## **Requerimientos** ##
+* Medir la temperatura de agua
+* Medir el nivel del agua
+* Ser ergonomico
+* Recirculamiento del agua eficiente
 
 ## **Diagrama de bloques del sistema.** ##
 
@@ -41,4 +45,5 @@ En el siguiente diagrama se muestran los diferentes componentes que se plantean 
 ## **Diagrama de caja negra con los modulos del ESP32.** ##
 ![Diagrama Bloque Embebidos](https://user-images.githubusercontent.com/88418156/187798153-f135e02f-7803-41c5-bae0-eb111757a825.png)
 
+## **Diseño de la placa** ##
 
