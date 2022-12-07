@@ -123,9 +123,13 @@ Y ya luego en el laboratorio de mecatronica se procedio a ensamblar todos los co
 
 ## **Resultados** ##
 
-Este esquematico se puede ver en la placa ya con los sensores en la siguiente imágen,
+Este esquematico se puede ver en la placa ya con los sensores en la siguiente imágen.
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Montaje%20PCB.jpeg)
+
+Y el cultivo hidroponico.
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_22.jpeg)
 
 
 ## **Brochure** ##
