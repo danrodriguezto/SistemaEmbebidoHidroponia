@@ -68,6 +68,11 @@ Aquí se presenta la configuración de la alimentación, el regulador(LT1963a5T-
 
 Esta fue la configuración para los led's utilizados, uno de iniciación y otro de boot. También se encuentran el  interruptor de reset.
 
+
+De la misma manera se crea el diseño de la PCB de dos caras con medidas de 10cm X 10cm.
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_16.png)
+
 Este esquematico se puede ver en la placa ya con los sensores en la siguiente imágen,
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Montaje%20PCB.jpeg)
