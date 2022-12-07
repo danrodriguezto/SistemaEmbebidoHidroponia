@@ -70,7 +70,7 @@ Esta fue la configuración para los led's utilizados, uno de iniciación y otro 
 
 Este esquematico se puede ver en la placa ya con los sensores en la siguiente imágen,
 
-![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Montaje%20PCB.png)
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Montaje%20PCB.jpeg)
 
 
 ## **Brochure** ##
