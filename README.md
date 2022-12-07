@@ -73,6 +73,12 @@ De la misma manera se crea el diseño de la PCB de dos caras con medidas de 10cm
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_16.png)
 
+Y a continuación se presentan ambas caras de la PCB.
+Teniendo la cara frontal:
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_17.png)
+Y la cara trasera:
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_18.png)
+
 Este esquematico se puede ver en la placa ya con los sensores en la siguiente imágen,
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Montaje%20PCB.jpeg)
