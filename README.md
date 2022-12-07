@@ -43,7 +43,7 @@ En el siguiente diagrama se muestran los diferentes componentes que se plantean 
 ![Diagrama_en_blanco](https://user-images.githubusercontent.com/88418156/186547916-15719605-8ecb-488c-ab9b-c09ebaba3a6a.png)
 
 ## **Diagrama de caja negra con los modulos del ESP32.** ##
-![Diagrama Bloque Embebidos](https://user-images.githubusercontent.com/88418156/187798153-f135e02f-7803-41c5-bae0-eb111757a825.png)
+![Diagrama Bloque Embebidos](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/DiagramaBloqueEmbebidosActualizado.png)
 
 ## **Diseño de la placa** ##
 
