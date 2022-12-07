@@ -101,6 +101,26 @@ Luego se procede a conseguir los materiales para ser ensamblados en la PCB.
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_8.jpeg)
 
+Y ya luego en el laboratorio de mecatronica se procedio a ensamblar todos los componentes.
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_5.jpeg)
+
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_6.jpeg)
+
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_4.jpeg)
+
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_2.jpeg)
+
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_1.jpeg)
+
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_3.jpeg)
+
+
 ## **Resultados** ##
 
 Este esquematico se puede ver en la placa ya con los sensores en la siguiente imágen,
