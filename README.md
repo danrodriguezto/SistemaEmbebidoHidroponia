@@ -75,14 +75,19 @@ De la misma manera se crea el diseño de la PCB de dos caras con medidas de 10cm
 
 Y a continuación se presentan ambas caras de la PCB.
 Teniendo la cara frontal:
+
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_17.png)
+
 Y la cara trasera:
+
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_18.png)
 
 Por lo tanto las imagenes de la PCB con sus componentes en 3D.
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_19.png)
+
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_20.png)
+
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_21.png)
 
 ## **Resultados** ##
