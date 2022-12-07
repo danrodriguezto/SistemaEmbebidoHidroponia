@@ -47,7 +47,16 @@ En el siguiente diagrama se muestran los diferentes componentes que se plantean 
 
 ## **Diseño de la placa** ##
 
+El diseño de la PCB fue hecho en el programa KiCad y se presentan los esquematicos a continuación,
 
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Brochure%20Hidro.png)
+Se puede observar la distribución de los pines en el ESP32, la conexión de los sensores y la alimentación para este. Aqui se puede observar la conexión del interruptor de flash para subir el programa. 
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Brochure%20Hidro.png)
+Se puede detallar la distribución de los pines para cada sensor, con la respectiva alimentación y tierra.
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Brochure%20Hidro.png)
+Aquí se presenta la configuración de la alimentación, el regulador(LT1963a5T-3.3), el octoacoplador(SFH617A-1Z01B) y los Mosfet utilizados (IRF4905).
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Brochure%20Hidro.png)
+Esta fue la configuración para los led's utilizados, uno de iniciación y otro de boot. También se encuentran el  interruptor de reset.
 ## **Brochure** ##
 
-![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Azul%20Oscuro%20Naranja%20Simple%20Investigaci%C3%B3n%20P%C3%B3ster%20(1).png?raw=true)
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Brochure%20Hidro.png)
