@@ -131,6 +131,10 @@ Y el cultivo hidroponico.
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_22.jpeg)
 
+Y como producto final se tiene:
+
+
+
 
 ## **Brochure** ##
 
