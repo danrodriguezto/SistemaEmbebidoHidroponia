@@ -96,6 +96,11 @@ En primera instancia se recibio la PCB, fabricada en JLCPCB Hong Kong.
 
 ![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_10.jpeg)
 
+Luego se procede a conseguir los materiales para ser ensamblados en la PCB.
+
+
+![unknown](https://github.com/danrodriguezto/SistemaEmbebidoHidroponia/blob/main/Image/Images_Project/Image_8.jpeg)
+
 ## **Resultados** ##
 
 Este esquematico se puede ver en la placa ya con los sensores en la siguiente imágen,
